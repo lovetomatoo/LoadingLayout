@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingRelativeLayout">
+        - <attr name="loading_status" format="enum">
+        <enum name="content" value="0" />
+        <enum name="loading" value="1" />
+        <enum name="error" value="2" />
+        <enum name="empty" value="3" />
+    </attr>
+    </declare-styleable>
+
+</resources>
